@@ -2,7 +2,7 @@
 
 from setuptools import setup, find_packages
 
-setup(name='cabot-alert-slack-custom',
+setup(name='cabot_alert_slack_custom',
       version='0.8.3',
       description='A slack alert plugin for Cabot by Arachnys',
       author='Luka Blaskovic',
